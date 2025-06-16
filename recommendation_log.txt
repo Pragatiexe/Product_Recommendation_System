@@ -1,0 +1,35 @@
+[2025-06-11 20:04:53] Content-Based: Lotion → Recommended: Shampoo, Running Shoes, Wireless Mouse
+[2025-06-11 20:06:16] User-Based: User 1 → Recommended: Noise Cancelling Headphones, Fitness Tracker, Tablet Mini
+[2025-06-12 13:34:17] Content-Based: Lotion → Recommended: Shampoo, Running Shoes, Wireless Mouse
+[2025-06-12 13:34:38] User-Based: User 1 → Recommended: Noise Cancelling Headphones, Fitness Tracker, Tablet Mini
+[2025-06-12 15:46:28] Content-Based: Noise Cancelling Headphones → Recommended: Wireless Mouse, Mechanical Keyboard, Tablet Mini
+[2025-06-12 16:15:38] Content-Based: Shampoo → Recommended: Lotion, Running Shoes, Wireless Mouse
+[2025-06-12 20:29:53] Content-Based: Lotion → Recommended: Shampoo, Running Shoes, Wireless Mouse, Laptop Bag, Mechanical Keyboard
+[2025-06-12 20:30:01] Content-Based: Lotion → Recommended: Shampoo, Running Shoes, Wireless Mouse, Laptop Bag, Mechanical Keyboard
+[2025-06-12 20:30:22] User-Based: 3 → Recommended: Shampoo, Wireless Mouse, Mechanical Keyboard, Noise Cancelling Headphones, Tablet Mini, Ergonomic Office Chair
+[2025-06-12 20:51:52] Content: Running Shoes → Recommended: Shampoo, Lotion, Tablet Mini, Ergonomic Office Chair
+[2025-06-12 22:28:15] Content: Lotion → Recommended: Shampoo, Running Shoes, Wireless Mouse
+[2025-06-13 00:17:31] Content: Running Shoes → Recommended: Shampoo, Lotion, Tablet Mini, Ergonomic Office Chair
+[2025-06-13 00:49:48] Content: Wireless Mouse → Recommended: Mechanical Keyboard, Noise Cancelling Headphones, Tablet Mini, Ergonomic Office Chair
+[2025-06-13 01:04:14] Content: Wireless Mouse → Recommended: Mechanical Keyboard, Noise Cancelling Headphones, Tablet Mini
+[2025-06-13 21:26:02] Content: Running Shoes → Recommended: Shampoo, Lotion, Tablet Mini
+[2025-06-13 21:26:14] User: 3 → Recommended: Wireless Mouse, Noise Cancelling Headphones, Tablet Mini
+[2025-06-13 22:14:08] Content: Wireless Mouse -> Mechanical Keyboard, Noise Cancelling Headphones, Tablet Mini
+[2025-06-13 22:14:28] User: 3 -> Wireless Mouse, Noise Cancelling Headphones, Tablet Mini
+[2025-06-13 22:37:11] Content: Mechanical Keyboard -> Wireless Mouse, Noise Cancelling Headphones, Tablet Mini
+[2025-06-13 23:37:41] Content: Wireless Mouse -> Mechanical Keyboard, Noise Cancelling Headphones, Tablet Mini
+[2025-06-14 00:05:36] Content: Shampoo -> Lotion, Running Shoes, Wireless Mouse
+[2025-06-14 23:04:26] Content: Laptop Bag -> Shampoo, Lotion, Smart Watch Z200
+[2025-06-14 23:04:51] User: 2 -> Wireless Mouse, Tablet Mini, Smart Watch Z200
+[2025-06-15 00:34:38] Content: Running Shoes -> Shampoo, Lotion, Tablet Mini
+[2025-06-15 00:35:39] Content: Running Shoes -> Shampoo, Lotion, Tablet Mini
+[2025-06-15 00:35:54] Content: Fitness Tracker -> Shampoo, Lotion, Running Shoes
+[2025-06-15 00:36:11] User: 3 -> Wireless Mouse, Tablet Mini, Smart Watch Z200
+[2025-06-15 01:06:19] Content: Laptop Bag -> Shampoo, Lotion, Smart Watch Z200
+[2025-06-15 01:06:54] User: 4 -> Noise Cancelling Headphones, Fitness Tracker, Smart Watch Z200
+[2025-06-15 12:10:35] Content: Laptop Bag -> Shampoo, Lotion, Smart Watch Z200
+[2025-06-15 12:10:47] User: 3 -> Wireless Mouse, Tablet Mini, Smart Watch Z200
+[2025-06-15 16:56:09] Content: Laptop Bag -> Shampoo, Lotion, Smart Watch Z200
+[2025-06-15 16:56:28] User: 2 -> Wireless Mouse, Tablet Mini, Smart Watch Z200
+[2025-06-16 19:00:29] Content: Smart Watch Z200 -> Wireless Mouse, Laptop Bag, Tablet Mini
+[2025-06-16 19:00:55] User: 2 -> Wireless Mouse, Tablet Mini, Smart Watch Z200

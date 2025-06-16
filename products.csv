@@ -1,0 +1,13 @@
+product_id,product_name,category,brand,features,price
+1,Shampoo,Beauty,Dove,"clean,moisturizing",100
+2,Lotion,Beauty,Nivea,"hydrating,cream",150
+3,Running Shoes,Sports,Nike,"lightweight,breathable",2500
+101,Wireless Mouse,Electronics,Logitech,"wireless,optical",799
+102,Laptop Bag,Accessories,Targus,"padded,waterproof",1200
+103,Mechanical Keyboard,Electronics,Corsair,"mechanical,backlit",3999
+104,Noise Cancelling Headphones,Electronics,Sony,"noise cancelling,wireless",5999
+105,Fitness Tracker,Health,Fitbit,"tracking,step,sleep",2999
+106,Tablet Mini,Electronics,Samsung,"lightweight,portable,touchscreen",14999
+107,Smart Watch Z200,Electronics,FitLife,"Waterproof heart rate monitor with GPS",4999
+108,Ergonomic Office Chair,Furniture,ComfortCo,"Adjustable lumbar support and mesh back",8500
+109,Portable Blender,Kitchen,GizmoTech,"USB rechargeable with stainless steel blades",999
